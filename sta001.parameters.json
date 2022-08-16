@@ -6,8 +6,8 @@
             "value": {
                 "Name": "stdeveu001",
                 "Kind": "StorageV2",
-                "Skuname": "Standard_GRS",
-                "skutype": "Standard_GRS"
+                "Skuname": "Standard_LRS",
+                "skutype": "Standard_LRS"
         }
     }
     }
